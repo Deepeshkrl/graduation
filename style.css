@@ -1,0 +1,29 @@
+body{
+    width:1000px;
+    font-family: 'メイリオ',
+    'hiragino kaku gothic pro',
+    sans-serif;
+    background-color: #ffffff;
+    margin:0;
+}
+.header_logo img {
+    float: right;
+    display: block;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    padding-left:800px;
+    padding-top: 30px;
+}
+.header_main img{
+    height: 300px;
+    width: 700px;
+    padding-left: 30px;
+    margin-top: auto;
+
+}
+
+.header_main nav {
+    display: inline-block;
+}
+
